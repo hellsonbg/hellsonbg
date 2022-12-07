@@ -1,38 +1,6 @@
 # Nome da Actions:  
 name: Snake Game
 
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@hellsonbg 
-rafaballerini
-/
-rafaballerini
-Public
-Code
-Issues
-9
-Pull requests
-18
-Actions
-Projects
-Security
-Insights
-rafaballerini/.github/workflows/cobrinha.yml
-@rafaballerini
-rafaballerini Update cobrinha.yml
-Latest commit d2470b3 on May 29, 2021
- History
- 1 contributor
-26 lines (22 sloc)  589 Bytes
-
-name: Generate Datas
-
 on:
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
