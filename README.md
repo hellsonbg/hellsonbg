@@ -1,4 +1,4 @@
-- 🏢 Estagiário de TI na Defensoria Pública do Espirito Santo
+- 🏢 Técnico de TI Jr. na Spassu
 - 🏫 Cursando Análise e Desenvolvimento de Sistemas - 3º Período
 - ✅ Aprendendo Programação
 
