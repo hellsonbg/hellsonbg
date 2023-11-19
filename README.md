@@ -1,5 +1,5 @@
-- 🏢 Técnico de TI Jr. na Spassu
-- 🏫 Cursando Análise e Desenvolvimento de Sistemas - 3º Período
+- 🏢 Auxiliar Desenvolvedor na DPES
+- 🏫 Cursando Análise e Desenvolvimento de Sistemas - 4º Período
 - ✅ Aprendendo Programação
 
 <div style="display: inline_block"><br>
