@@ -1,6 +1,8 @@
 # Nome da Actions:  
 name: Snake Game
 
+
+  
 # Controlador do tempo que sera feito a atualização dos arquivos.
 on:
   schedule:
@@ -15,6 +17,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Use Node.js 20
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
       - uses: actions/checkout@v2
@@ -28,6 +34,7 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - run: git status
+   
 
       # Para as atualizações.
       - name: Push changes
