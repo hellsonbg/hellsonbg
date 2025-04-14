@@ -11,6 +11,10 @@
 <img align="center" alt="CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
 <img align="center" alt="MUI" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"> 
 <img align="center" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> 
+<img align="center" alt="Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"> 
+<img align="center" alt="PostegreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg"> 
+
+
 
 
 
